@@ -1,0 +1,31 @@
+.kuplet1{
+    color:navy;
+    font-family:Tahoma;
+    text-align:center;
+}
+.kuplet2{
+    color:navy;
+    font-family:Tahoma;
+    text-align:center;
+}
+.kuplet3{
+    color:navy;
+    font-family:Tahoma;
+    text-align:center;
+}
+.kuplet4{
+    color:navy;
+    font-family:Tahoma;
+    text-align:center;
+}
+	a:hover{
+		color:red;
+		cursor:pointer;
+		text-decoration:underline;
+	}
+body{
+background-image:url("3132.jpg");	
+}
+.silka{
+text-decoration:none;	
+}
